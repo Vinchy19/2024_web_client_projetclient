@@ -1,4 +1,4 @@
-const cicon = document.getElementById('cicon')
+var cicon = document.getElementById('cicon')
 cicon.addEventListener('click', () => toggleMenu())
 
 function toggleMenu() {
